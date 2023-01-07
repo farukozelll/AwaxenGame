@@ -14,4 +14,4 @@ Bu iki durumda da oyuncu parayı App Store veya Google Play’e ödüyor. Bu iki
 1.	Oyun arasında video izlendiği takdirde sandık açma item kazanma 
 2.	Oyun içerisi paket satın alımları.
 
-![lll](https://user-images.githubusercontent.com/47918693/211147041-21c4db0e-d4ac-4f46-b332-1219d892f1fd.png) ![88](https://user-images.githubusercontent.com/47918693/211147040-d5f8663f-2285-42ef-95b8-6aa2045b2c00.jpg)
+![lll](https://user-images.githubusercontent.com/47918693/211147041-21c4db0e-d4ac-4f46-b332-1219d892f1fd.png)![88](https://user-images.githubusercontent.com/47918693/211147040-d5f8663f-2285-42ef-95b8-6aa2045b2c00.jpg)
